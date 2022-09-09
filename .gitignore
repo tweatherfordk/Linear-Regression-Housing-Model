@@ -130,3 +130,7 @@ dmypy.json
 
 .DS_Store
 .csv
+__pycache__
+*.db
+*.pytest_cache
+
