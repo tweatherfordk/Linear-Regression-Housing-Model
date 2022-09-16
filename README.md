@@ -23,7 +23,7 @@ Our baseline model:
 ![alttext](https://i.ibb.co/2gPCLmk/sales-price-sqft-living-model.png)
 
 A sample distribution of some of our features with sales price: 
-![alttext]([https://i.ibb.co/PC1hVKj/output.png](https://i.ibb.co/dctMhXH/top-3-features.png))
+![alttext](https://i.ibb.co/dctMhXH/top-3-features.png)
 
 Our most correlated features used to train the model: 
 ![alttext](https://i.ibb.co/2vj881n/top-3-features.png)
