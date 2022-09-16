@@ -26,7 +26,7 @@ A sample distribution of some of our features with sales price:
 ![alttext]([https://i.ibb.co/PC1hVKj/output.png](https://i.ibb.co/dctMhXH/top-3-features.png))
 
 Our most correlated features used to train the model: 
-![alttext](https://i.ibb.co/hmGycdz/feature-correlation-heatmap.png)
+![alttext](https://i.ibb.co/2vj881n/top-3-features.png)
 
 Our final model visualized here: 
 ![alttext](https://i.ibb.co/SxqX2hV/model-final.png)
