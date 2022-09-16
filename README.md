@@ -48,8 +48,7 @@ Smaller houses (between 1000-2000 square feet) yielded the highest profit margin
 
 ## Future Work
 
-One long term goal that we have for this project is to improve our R-squared score by adding walking-score of the region. Eventually we would like to expand this price model to be  a generalized price estimate of homes across the country. This would require a nation wide dataset as well as more careful feature engineering.  
-
+One long term goal is to improve our R-squared score by adding walking-score of the individual homes, this information can be scrapped from the Walking Score API. Eventually we would like to expand this model and create a generalized price estimate of homes across the country. This would require a nation wide dataset as well as more careful feature engineering. We would like to compare our estimates to homes that are not in King County and see how this model preforms on completely new data.   
 
 
 
