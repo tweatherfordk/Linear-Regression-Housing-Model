@@ -20,7 +20,7 @@ There were three main data sources used for this project. The first was a CSV fi
 ## Description of data
 
 Our baseline model: 
-![alttext](https://i.ibb.co/2gPCLmk/sales-price-sqft-living-model.png)
+![alttext](https://i.ibb.co/fnFPZrP/living-spcae-versus-price.png)
 
 A sample distribution of some of our features with sales price: 
 ![alttext](https://i.ibb.co/2vj881n/top-3-features.png)
