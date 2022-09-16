@@ -20,16 +20,16 @@ There were three main data sources used for this project. The first was a CSV fi
 ## Description of data
 
 Our baseline model: 
-![alttext](https://drive.google.com/file/d/1_GyRkU51WVmczWNzfqqPAWUHXdg3X4B6/view?usp=sharing)
+![alttext](https://i.ibb.co/2gPCLmk/sales-price-sqft-living-model.png)
 
 A sample distribution of some of our features with sales price: 
-![alttext](https://drive.google.com/file/d/1_GyRkU51WVmczWNzfqqPAWUHXdg3X4B6/view?usp=sharing)
+![alttext](https://i.ibb.co/PC1hVKj/output.png)
 
 Our most correlated features used to train the model: 
-![alttext](https://drive.google.com/file/d/1_GyRkU51WVmczWNzfqqPAWUHXdg3X4B6/view?usp=sharing)
+![alttext](https://i.ibb.co/hmGycdz/feature-correlation-heatmap.png)
 
 Our final model visualized here: 
-![alttext](https://drive.google.com/file/d/1_GyRkU51WVmczWNzfqqPAWUHXdg3X4B6/view?usp=sharing)
+![alttext](https://i.ibb.co/SxqX2hV/model-final.png)
 
 
 ## Conclusion
