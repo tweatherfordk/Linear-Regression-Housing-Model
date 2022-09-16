@@ -32,25 +32,9 @@ Our final model visualized here:
 ![alttext](https://i.ibb.co/SxqX2hV/model-final.png)
 
 
+
 ## Conclusion
 
 
 (profit conclusion)
-The 98028 zip code in King County had the highest av
-
-Based on the AirbnbZip code 98028 had the  highest profit by a large margin for Airbnb rentals.
-Smaller houses (between 1000-2000 square feet) yielded the highest profit margin
-Go with a smaller to mid sized home between $250,000 and $500,000
-As home price increased, rental profit decreases
-
-Recommendations:
-Go with a smaller to mid sized home between $250,000 and $500,000
-
-
-
-
-
-
-
-
-
+Smaller houses (between 1000-2000 square feet) yielded the highest profit margin. Effectively, as house prices increased, rental profit decreased. We recommend choosing a smaller to mid sized home, a little bit outside of Seattle. Housing prices are cheaper a little outside of the city, but the location is still easily commutable into downtown. Go with a smaller to mid sized home between $250,000 and $500,000, as these proved to be the most profitable. We specifically recommended the 98028 zip code, the town of Kenmore Washington, as it had the highest average  Airbnb nightly rates and revenue. 
